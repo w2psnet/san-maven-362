@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/san-maven-362.iml" filepath="$PROJECT_DIR$/san-maven-362.iml" />
+      <module fileurl="file://$PROJECT_DIR$/san-maven-362-ear/san-maven-362-ear.iml" filepath="$PROJECT_DIR$/san-maven-362-ear/san-maven-362-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/san-maven-362-ejb/san-maven-362-ejb.iml" filepath="$PROJECT_DIR$/san-maven-362-ejb/san-maven-362-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/san-maven-362-web/san-maven-362-web.iml" filepath="$PROJECT_DIR$/san-maven-362-web/san-maven-362-web.iml" />
+    </modules>
+  </component>
+</project>

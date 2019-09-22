@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="san-maven-362-web" />
+        <module name="san-maven-362-ejb" />
+        <module name="san-maven-362-ear" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="7">
+      <module name="san-maven-362" target="1.7" />
+      <module name="san-maven-362-ear" target="1.7" />
+      <module name="san-maven-362-ejb" target="1.7" />
+      <module name="san-maven-362-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

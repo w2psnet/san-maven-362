@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="san-maven-362-ear:ear">
+    <output-path>$PROJECT_DIR$/san-maven-362-ear/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>san-maven-362-ear</module>
+        <packaging>ear</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="san-maven-362-ear.ear">
+      <element id="artifact" artifact-name="san-maven-362-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

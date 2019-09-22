@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="org.jetbrains:annotations:16.0.2" type="repository">
+    <properties maven-id="org.jetbrains:annotations:16.0.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/annotations-16.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javaee-api-7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/annotations-16.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/annotations-16.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

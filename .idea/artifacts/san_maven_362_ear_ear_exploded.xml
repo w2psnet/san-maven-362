@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="san-maven-362-ear:ear exploded">
+    <output-path>$PROJECT_DIR$/san-maven-362-ear/target/san-maven-362-ear</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>san-maven-362-ear</module>
+        <packaging>ear</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="san-maven-362-ear/javaeeApplication/JavaEE" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/san-maven-362-ear/target/san-maven-362-ear/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/san-maven-362-ear/src/main/application" />
+      <element id="archive" name="san-maven-362-web.war">
+        <element id="artifact" artifact-name="san-maven-362-web:war exploded" />
+      </element>
+      <element id="archive" name="san-maven-362-ejb.jar">
+        <element id="artifact" artifact-name="san-maven-362-ejb:ejb exploded" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="file-copy" path="$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar" output-file-name="javax.inject.jar" />
+        <element id="file-copy" path="$MAVEN_REPOSITORY$/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar" output-file-name="javaee-web-api.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>
