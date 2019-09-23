@@ -1,10 +1,11 @@
 san-maven-362: Example Using Multiple Java EE 7 Technologies Deployed as an EAR
 ==============================================================================================
-Author: Pete Muir
+Author: Pete Muir, modified by San Aung @ sanaung.pmp@gmail.com
 Level: Intermediate
-Technologies: EAR, JPA
+Technologies: Designed to be run on IntelliJ IDEA 2019.1, JBoss WildFly 17 & Maven 3.6 -- 
+Java EE 7 Technologies Deployed as an EAR,  Java 7.0 (Java SDK 1.7). EAR - ejb, web, JPA
 Summary: Based on kitchensink, but deployed as an EAR
-Target Project: WildFly
+Target Project: WildFly 17
 Source: <https://github.com/wildfly/quickstart/>
 
 What is it?

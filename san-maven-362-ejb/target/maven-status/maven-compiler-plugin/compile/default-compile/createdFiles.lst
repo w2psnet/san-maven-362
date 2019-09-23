@@ -1,0 +1,5 @@
+net\w2ps\model\Member.class
+net\w2ps\service\MemberRegistration.class
+net\w2ps\data\MemberRepository.class
+net\w2ps\data\MemberListProducer.class
+net\w2ps\util\Resources.class
